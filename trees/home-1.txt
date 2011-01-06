@@ -1,0 +1,21 @@
+/home/rz65
+|-- Arduino-Sketches
+|-- Desktop
+|-- Documents
+|-- Eclipse-WS
+|-- Eeebuntu Books.desktop
+|-- Music
+|-- MyTools
+|-- NO-WS
+|-- Photos
+|-- Pictures
+|-- Processing-Sketches
+|-- Public
+|-- Scratch
+|-- Templates
+|-- Videos
+|-- bin
+|-- geronimo_home
+`-- minicom.log
+
+16 directories, 2 files

@@ -1,0 +1,67 @@
+/home/rz65
+|-- Arduino-Sketches
+|   |-- DS18B20Tester
+|   |-- LightUpALED
+|   |-- MaxBotixAE4SimpleAnalog
+|   |-- MaxBotixAE4SimpleAnalogEnvelopeViaProcessing
+|   |-- MaxBotixAE4SimpleRS232
+|   |-- MaxBotixEZ4SimpleAnalog
+|   |-- MaxBotixEZ4SimplePWM
+|   |-- MaxBotixEZ4SimpleRS232
+|   |-- MaxBotixEZ4SonarPWM
+|   |-- PoorMansSonar
+|   |-- RandomPanTiltServo
+|   |-- Simple
+|   |-- __common
+|   `-- libraries
+|-- Desktop
+|-- Documents
+|-- Eclipse-WS
+|   `-- FirstSteps01
+|-- Eeebuntu Books.desktop
+|-- Music
+|-- MyTools
+|   |-- ApacheDirectoryStudio -> ApacheDirectoryStudio-linux-x86-1.5.3.v20100330
+|   `-- ApacheDirectoryStudio-linux-x86-1.5.3.v20100330
+|-- NO-WS
+|-- Photos
+|   |-- 2008
+|   `-- 2010
+|-- Pictures
+|-- Processing-Sketches
+|   |-- BandPassFilter
+|   |-- GifAnim
+|   |-- MaxBotixAE4SimpleAnalogEnvelopeRenderer
+|   |-- PGraphicsUeb1
+|   |-- PGraphicsUeb2mitSerial
+|   |-- PoorMansSonarDisplay
+|   `-- SimpleRead
+|-- Public
+|-- Scratch
+|   |-- a.zip
+|   |-- core-index.apt.vm
+|   |-- todo.txt
+|   `-- work-readme.txt
+|-- Templates
+|-- Videos
+|-- bin
+|   |-- dolo.rb
+|   |-- jruby-init
+|   |-- jruby-init~
+|   |-- launch-eclipse
+|   |-- launch-eclipse~
+|   `-- rzlx1
+|-- geronimo_home
+|   |-- LICENSE
+|   |-- NOTICE
+|   |-- bin
+|   |-- deploy
+|   |-- etc
+|   |-- farming
+|   |-- lib
+|   |-- repository
+|   |-- schema
+|   `-- var
+`-- minicom.log
+
+50 directories, 14 files

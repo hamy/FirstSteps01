@@ -1,0 +1,218 @@
+/home/rz65
+|-- Arduino-Sketches
+|   |-- DS18B20Tester
+|   |   `-- DS18B20Tester.pde
+|   |-- LightUpALED
+|   |   `-- LightUpALED.pde
+|   |-- MaxBotixAE4SimpleAnalog
+|   |   `-- MaxBotixAE4SimpleAnalog.pde
+|   |-- MaxBotixAE4SimpleAnalogEnvelopeViaProcessing
+|   |   `-- MaxBotixAE4SimpleAnalogEnvelopeViaProcessing.pde
+|   |-- MaxBotixAE4SimpleRS232
+|   |   `-- MaxBotixAE4SimpleRS232.pde
+|   |-- MaxBotixEZ4SimpleAnalog
+|   |   `-- MaxBotixEZ4SimpleAnalog.pde
+|   |-- MaxBotixEZ4SimplePWM
+|   |   `-- MaxBotixEZ4SimplePWM.pde
+|   |-- MaxBotixEZ4SimpleRS232
+|   |   `-- MaxBotixEZ4SimpleRS232.pde
+|   |-- MaxBotixEZ4SonarPWM
+|   |   `-- MaxBotixEZ4SonarPWM.pde
+|   |-- PoorMansSonar
+|   |   `-- PoorMansSonar.pde
+|   |-- RandomPanTiltServo
+|   |   `-- RandomPanTiltServo.pde
+|   |-- Simple
+|   |   `-- Simple.pde
+|   |-- __common
+|   |   `-- build-import.xml
+|   `-- libraries
+|       |-- DallasTemperature
+|       |-- OneWire
+|       |-- PS2Keyboard
+|       `-- Spi
+|-- Desktop
+|-- Documents
+|-- Eclipse-WS
+|   `-- FirstSteps01
+|       `-- README
+|-- Eeebuntu Books.desktop
+|-- Music
+|-- MyTools
+|   |-- ApacheDirectoryStudio -> ApacheDirectoryStudio-linux-x86-1.5.3.v20100330
+|   `-- ApacheDirectoryStudio-linux-x86-1.5.3.v20100330
+|       |-- ApacheDirectoryStudio
+|       |-- ApacheDirectoryStudio.xpm
+|       |-- LICENSE.txt
+|       |-- NOTICE.txt
+|       |-- Release Notes.txt
+|       |-- configuration
+|       |-- features
+|       `-- plugins
+|-- NO-WS
+|-- Photos
+|   |-- 2008
+|   |   `-- 01
+|   `-- 2010
+|       `-- 05
+|-- Pictures
+|-- Processing-Sketches
+|   |-- BandPassFilter
+|   |   |-- BandPassFilter.pde
+|   |   `-- data
+|   |-- GifAnim
+|   |   `-- GifAnim.pde
+|   |-- MaxBotixAE4SimpleAnalogEnvelopeRenderer
+|   |   |-- EnvelopeEvent.pde
+|   |   |-- EnvelopeEventSource.pde
+|   |   `-- MaxBotixAE4SimpleAnalogEnvelopeRenderer.pde
+|   |-- PGraphicsUeb1
+|   |   `-- PGraphicsUeb1.pde
+|   |-- PGraphicsUeb2mitSerial
+|   |   `-- PGraphicsUeb2mitSerial.pde
+|   |-- PoorMansSonarDisplay
+|   |   `-- PoorMansSonarDisplay.pde
+|   `-- SimpleRead
+|       `-- SimpleRead.pde
+|-- Public
+|-- Scratch
+|   |-- a.zip
+|   |-- core-index.apt.vm
+|   |-- todo.txt
+|   `-- work-readme.txt
+|-- Templates
+|-- Videos
+|-- bin
+|   |-- dolo.rb
+|   |-- jruby-init
+|   |-- jruby-init~
+|   |-- launch-eclipse
+|   |-- launch-eclipse~
+|   `-- rzlx1
+|-- geronimo_home
+|   |-- LICENSE
+|   |-- NOTICE
+|   |-- bin
+|   |   |-- client.bat
+|   |   |-- client.jar
+|   |   |-- client.sh
+|   |   |-- cxf-tools.bat
+|   |   |-- cxf-tools.jar
+|   |   |-- cxf-tools.sh
+|   |   |-- deploy.bat
+|   |   |-- deploy.sh
+|   |   |-- deployer.jar
+|   |   |-- geronimo.bat
+|   |   |-- geronimo.sh
+|   |   |-- gserviceReg.sh
+|   |   |-- gsh
+|   |   |-- gsh.bat
+|   |   |-- jaxws-tools.bat
+|   |   |-- jaxws-tools.jar
+|   |   |-- jaxws-tools.sh
+|   |   |-- jpa.jar
+|   |   |-- server.jar
+|   |   |-- setjavaenv.bat
+|   |   |-- setjavaenv.sh
+|   |   |-- shutdown.bat
+|   |   |-- shutdown.jar
+|   |   |-- shutdown.sh
+|   |   |-- start-server
+|   |   |-- start-server.bat
+|   |   |-- startup.bat
+|   |   |-- startup.sh
+|   |   |-- stop-server
+|   |   `-- stop-server.bat
+|   |-- deploy
+|   |-- etc
+|   |   |-- META-INF
+|   |   |-- gsh-classworlds.conf
+|   |   |-- gsh-log4j.properties
+|   |   |-- layout.xml
+|   |   `-- rc.d
+|   |-- farming
+|   |   |-- cluster-repository
+|   |   `-- master-repository
+|   |-- lib
+|   |   |-- asm-3.1.jar
+|   |   |-- asm-commons-3.1.jar
+|   |   |-- boot
+|   |   |-- cglib-nodep-2.1_3.jar
+|   |   |-- commons-cli-1.0.jar
+|   |   |-- endorsed
+|   |   |-- geronimo-cli-2.2.jar
+|   |   |-- geronimo-crypto-2.2.jar
+|   |   |-- geronimo-cxf-tools-2.2.jar
+|   |   |-- geronimo-deploy-jsr88-bootstrapper-2.2.jar
+|   |   |-- geronimo-jaxws-sun-tools-2.2.jar
+|   |   |-- geronimo-kernel-2.2.jar
+|   |   |-- geronimo-system-2.2.jar
+|   |   |-- geronimo-transformer-2.2.jar
+|   |   |-- jcl-over-slf4j-1.5.5.jar
+|   |   |-- jsr88-deploymentfactory-2.2.car
+|   |   |-- jsr88-deploymentfactory.jar
+|   |   |-- log4j-1.2.15.jar
+|   |   |-- plexus-archiver-1.0-alpha-7.jar
+|   |   |-- slf4j-api-1.5.5.jar
+|   |   |-- slf4j-log4j12-1.5.5.jar
+|   |   |-- xbean-reflect-3.6.jar
+|   |   |-- xpp3_min-1.1.4c.jar
+|   |   `-- xstream-1.3.jar
+|   |-- repository
+|   |   |-- asm
+|   |   |-- axis
+|   |   |-- backport-util-concurrent
+|   |   |-- cglib
+|   |   |-- com
+|   |   |-- commons-beanutils
+|   |   |-- commons-cli
+|   |   |-- commons-codec
+|   |   |-- commons-collections
+|   |   |-- commons-digester
+|   |   |-- commons-discovery
+|   |   |-- commons-fileupload
+|   |   |-- commons-httpclient
+|   |   |-- commons-io
+|   |   |-- commons-jexl
+|   |   |-- commons-lang
+|   |   |-- commons-net
+|   |   |-- commons-vfs
+|   |   |-- javax
+|   |   |-- jline
+|   |   |-- log4j
+|   |   |-- net
+|   |   |-- org
+|   |   |-- quartz
+|   |   |-- wsdl4j
+|   |   |-- xml-resolver
+|   |   `-- xpp3
+|   |-- schema
+|   |   |-- attributes-1.2.xsd
+|   |   |-- geronimo-application-2.0.xsd
+|   |   |-- geronimo-application-client-2.0.xsd
+|   |   |-- geronimo-connector-1.2.xsd
+|   |   |-- geronimo-credential-store-1.0.xsd
+|   |   |-- geronimo-jaspi.xsd
+|   |   |-- geronimo-javabean-xmlattribute-1.0.xsd
+|   |   |-- geronimo-login-config-2.0.xsd
+|   |   |-- geronimo-module-1.2.xsd
+|   |   |-- geronimo-naming-1.2.xsd
+|   |   |-- geronimo-openejb-2.0.xsd
+|   |   |-- geronimo-security-1.2.xsd
+|   |   |-- geronimo-security-2.0.xsd
+|   |   |-- geronimo-subject-info-1.0.xsd
+|   |   |-- openejb-jar-2.2.xsd
+|   |   `-- plugins-1.3.xsd
+|   `-- var
+|       |-- activemq
+|       |-- config
+|       |-- derby
+|       |-- jetty
+|       |-- log
+|       |-- security
+|       |-- shared
+|       |-- temp
+|       `-- txlog
+`-- minicom.log
+
+102 directories, 113 files
