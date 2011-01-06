@@ -8,3 +8,4 @@ Branches:
 Note: The URL for accessing the repo via git pull must be
 url = git@github.com:hamy/FirstSteps01.git
 url = https://.... does not work, dunno why...
+Use this URL also for cloning, since the URL is stored in the "config" leaf of the .git directory.
