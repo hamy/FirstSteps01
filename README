@@ -1,1 +1,6 @@
 This is the README file of the first GIT project.
+
+The "trees" directory contains results of the "tree" utility (various depth values).
+Branches:
+  $HOME
+  /tmp
