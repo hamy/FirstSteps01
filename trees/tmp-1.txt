@@ -1,0 +1,29 @@
+/tmp
+|-- FirstSteps01
+|-- dolo
+|-- hsperfdata_rz65
+|-- keyring-DjL5hi
+|-- libgksu-GoKUjD
+|-- orbit-administrator
+|-- orbit-meff
+|-- orbit-root
+|-- orbit-rz65
+|-- p0
+|-- p1
+|-- p12.patch
+|-- p2
+|-- plugtmp
+|-- pulse-PKdhtXMmr18n
+|-- pulse-Ryjvk1aXr5bf
+|-- pulse-a9UXZhdvU2UH
+|-- pulse-yg8fSRYrbmpl
+|-- q1
+|-- seahorse-1tpb4e
+|-- seahorse-8Gqae1
+|-- seahorse-aME2Sl
+|-- ssh-kRstc21354
+|-- virtual-administrator.M4CVSz
+|-- virtual-meff.PzQauz
+`-- virtual-rz65.8Nucus
+
+25 directories, 1 file

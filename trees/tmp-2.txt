@@ -1,0 +1,79 @@
+/tmp
+|-- FirstSteps01
+|   |-- README
+|   `-- trees
+|-- dolo
+|   `-- git223.jar
+|-- hsperfdata_rz65
+|   `-- 22662
+|-- keyring-DjL5hi
+|   |-- socket
+|   |-- socket.pkcs11
+|   `-- socket.ssh
+|-- libgksu-GoKUjD [error opening dir]
+|-- orbit-administrator [error opening dir]
+|-- orbit-meff [error opening dir]
+|-- orbit-root [error opening dir]
+|-- orbit-rz65
+|   |-- bonobo-activation-register-0213e557693478210c04d48a4d257d9d.lock
+|   |-- bonobo-activation-server-0213e557693478210c04d48a4d257d9d-ior
+|   |-- linc-535e-0-ef57b38672ec
+|   |-- linc-536a-0-73051f42896d9
+|   |-- linc-53ed-0-c88538894a78
+|   |-- linc-53ef-0-25061cf18392a
+|   |-- linc-53fa-0-69c60c95e9f47
+|   |-- linc-540d-0-72092bdd822f2
+|   |-- linc-5451-0-527072452c9fb
+|   |-- linc-5452-0-7fc6229fc13b1
+|   |-- linc-5453-0-56161ee822885
+|   |-- linc-5455-0-70d8bcb1be77f
+|   |-- linc-5458-0-395a4f8227e34
+|   |-- linc-545a-0-3fbe13d4867a
+|   |-- linc-545f-0-4c56fdd397b76
+|   |-- linc-5460-0-655eb9311edfc
+|   |-- linc-5468-0-70182e8f48eea
+|   |-- linc-5475-0-26cac61bbf812
+|   |-- linc-5483-0-2b7148bebbd5b
+|   |-- linc-549a-0-30db2fca4e6d5
+|   |-- linc-549d-0-7df5e18c1a289
+|   |-- linc-54a0-0-394044232b786
+|   |-- linc-54a3-0-3cef8fffaec4a
+|   |-- linc-54a6-0-1899439ceee5c
+|   |-- linc-54a9-0-393073eee316b
+|   |-- linc-54b1-0-38bc3d37d09d6
+|   |-- linc-54c6-0-23f156549a0cd
+|   |-- linc-56ea-0-66b2ac4777e92
+|   |-- linc-5857-0-1522c4de917bf
+|   |-- linc-5886-0-6b313741df748
+|   `-- linc-65e1-0-1a75fa09104ec
+|-- p0
+|   |-- readme
+|   `-- src
+|-- p1
+|   |-- readme
+|   `-- src
+|-- p12.patch
+|-- p2
+|   |-- readme
+|   `-- src
+|-- plugtmp
+|-- pulse-PKdhtXMmr18n [error opening dir]
+|-- pulse-Ryjvk1aXr5bf [error opening dir]
+|-- pulse-a9UXZhdvU2UH [error opening dir]
+|-- pulse-yg8fSRYrbmpl
+|   |-- native
+|   `-- pid
+|-- q1
+|   |-- readme
+|   `-- src
+|-- seahorse-1tpb4e [error opening dir]
+|-- seahorse-8Gqae1 [error opening dir]
+|-- seahorse-aME2Sl
+|   `-- S.gpg-agent
+|-- ssh-kRstc21354
+|   `-- agent.21354
+|-- virtual-administrator.M4CVSz [error opening dir]
+|-- virtual-meff.PzQauz [error opening dir]
+`-- virtual-rz65.8Nucus
+
+30 directories, 46 files
