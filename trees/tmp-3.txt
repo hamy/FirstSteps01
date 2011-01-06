@@ -53,11 +53,6 @@
 |   |-- linc-5886-0-6b313741df748
 |   `-- linc-65e1-0-1a75fa09104ec
 |-- p0
-|   |-- readme
-|   `-- src
-|       |-- baul
-|       |-- bruell.txt
-|       `-- pnirf.txt
 |-- p1
 |   |-- readme
 |   `-- src
@@ -78,12 +73,6 @@
 |-- pulse-yg8fSRYrbmpl
 |   |-- native
 |   `-- pid
-|-- q1
-|   |-- readme
-|   `-- src
-|       |-- baul
-|       |-- bruell.txt
-|       `-- pnirf.txt
 |-- seahorse-1tpb4e [error opening dir]
 |-- seahorse-8Gqae1 [error opening dir]
 |-- seahorse-aME2Sl
@@ -94,4 +83,4 @@
 |-- virtual-meff.PzQauz [error opening dir]
 `-- virtual-rz65.8Nucus
 
-34 directories, 60 files
+29 directories, 54 files

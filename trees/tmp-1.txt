@@ -17,7 +17,6 @@
 |-- pulse-Ryjvk1aXr5bf
 |-- pulse-a9UXZhdvU2UH
 |-- pulse-yg8fSRYrbmpl
-|-- q1
 |-- seahorse-1tpb4e
 |-- seahorse-8Gqae1
 |-- seahorse-aME2Sl
@@ -26,4 +25,4 @@
 |-- virtual-meff.PzQauz
 `-- virtual-rz65.8Nucus
 
-25 directories, 1 file
+24 directories, 1 file
