@@ -4,3 +4,7 @@ The "trees" directory contains results of the "tree" utility (various depth valu
 Branches:
   b202-$HOME
   b202-/tmp
+
+Note: The URL for accessing the repo via git pull must be
+url = git@github.com:hamy/FirstSteps01.git
+url = https://.... does not work, dunno why...
