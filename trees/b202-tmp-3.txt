@@ -2,85 +2,57 @@
 |-- FirstSteps01
 |   |-- README
 |   `-- trees
-|       |-- home-1.txt
-|       |-- home-2.txt
-|       |-- home-3.txt
-|       |-- tmp-1.txt
-|       |-- tmp-2.txt
-|       `-- tmp-3.txt
-|-- dolo
-|   `-- git223.jar
+|       |-- b202-home-1.txt
+|       |-- b202-home-2.txt
+|       |-- b202-home-3.txt
+|       |-- b202-tmp-1.txt
+|       |-- b202-tmp-2.txt
+|       `-- b202-tmp-3.txt
 |-- hsperfdata_rz65
-|   `-- 22662
-|-- keyring-DjL5hi
+|   `-- 4965
+|-- keyring-RV5Wkf
 |   |-- socket
 |   |-- socket.pkcs11
 |   `-- socket.ssh
-|-- libgksu-GoKUjD [error opening dir]
-|-- orbit-administrator [error opening dir]
-|-- orbit-meff [error opening dir]
-|-- orbit-root [error opening dir]
 |-- orbit-rz65
-|   |-- bonobo-activation-register-0213e557693478210c04d48a4d257d9d.lock
-|   |-- bonobo-activation-server-0213e557693478210c04d48a4d257d9d-ior
-|   |-- linc-535e-0-ef57b38672ec
-|   |-- linc-536a-0-73051f42896d9
-|   |-- linc-53ed-0-c88538894a78
-|   |-- linc-53ef-0-25061cf18392a
-|   |-- linc-53fa-0-69c60c95e9f47
-|   |-- linc-540d-0-72092bdd822f2
-|   |-- linc-5451-0-527072452c9fb
-|   |-- linc-5452-0-7fc6229fc13b1
-|   |-- linc-5453-0-56161ee822885
-|   |-- linc-5455-0-70d8bcb1be77f
-|   |-- linc-5458-0-395a4f8227e34
-|   |-- linc-545a-0-3fbe13d4867a
-|   |-- linc-545f-0-4c56fdd397b76
-|   |-- linc-5460-0-655eb9311edfc
-|   |-- linc-5468-0-70182e8f48eea
-|   |-- linc-5475-0-26cac61bbf812
-|   |-- linc-5483-0-2b7148bebbd5b
-|   |-- linc-549a-0-30db2fca4e6d5
-|   |-- linc-549d-0-7df5e18c1a289
-|   |-- linc-54a0-0-394044232b786
-|   |-- linc-54a3-0-3cef8fffaec4a
-|   |-- linc-54a6-0-1899439ceee5c
-|   |-- linc-54a9-0-393073eee316b
-|   |-- linc-54b1-0-38bc3d37d09d6
-|   |-- linc-54c6-0-23f156549a0cd
-|   |-- linc-56ea-0-66b2ac4777e92
-|   |-- linc-5857-0-1522c4de917bf
-|   |-- linc-5886-0-6b313741df748
-|   `-- linc-65e1-0-1a75fa09104ec
-|-- p0
-|-- p1
-|   |-- readme
-|   `-- src
-|       |-- baul
-|       |-- bruell.txt
-|       `-- pnirf.txt
-|-- p12.patch
-|-- p2
-|   |-- readme
-|   `-- src
-|       |-- baul
-|       |-- bruell.txt
-|       `-- pnirf.txt
-|-- plugtmp
-|-- pulse-PKdhtXMmr18n [error opening dir]
-|-- pulse-Ryjvk1aXr5bf [error opening dir]
-|-- pulse-a9UXZhdvU2UH [error opening dir]
-|-- pulse-yg8fSRYrbmpl
+|   |-- bonobo-activation-register-6e94a994bde1ab2e89a97c894d261554.lock
+|   |-- bonobo-activation-server-6e94a994bde1ab2e89a97c894d261554-ior
+|   |-- linc-10a4-0-2ac7c7ae8d709
+|   |-- linc-10b1-0-513cc2db305fe
+|   |-- linc-1134-0-4bd461ab73b1a
+|   |-- linc-1136-0-663389474c4b2
+|   |-- linc-1141-0-23c952fa7b736
+|   |-- linc-114b-0-6bb21bb4dc91
+|   |-- linc-1198-0-7907b22c4eb77
+|   |-- linc-1199-0-759a68e3773a3
+|   |-- linc-119a-0-300b9efc504d4
+|   |-- linc-119c-0-84848e98b938
+|   |-- linc-119f-0-36977cdaa6789
+|   |-- linc-11a1-0-22a2d1ebb3239
+|   |-- linc-11a4-0-1eddff22aaab
+|   |-- linc-11a8-0-4b3dba3dc4138
+|   |-- linc-11b1-0-22a2d1ebe2696
+|   |-- linc-11b7-0-60486b9ae320b
+|   |-- linc-11c2-0-1bab8ed913e7a
+|   |-- linc-11de-0-f2a6b4e3cb4f
+|   |-- linc-11e7-0-3f8eb4ce5208a
+|   |-- linc-11ea-0-78473aa936a1f
+|   |-- linc-11ed-0-2353130930583
+|   |-- linc-11f0-0-2c86191b984a3
+|   |-- linc-11f3-0-3470612c4aa88
+|   |-- linc-11f6-0-39d3cf986bffe
+|   |-- linc-120c-0-785784b846256
+|   |-- linc-1218-0-2f009738561f4
+|   |-- linc-1337-0-6ae29f805693a
+|   `-- linc-1365-0-3b402e152f543
+|-- pulse-5leSTs7epn1E
 |   |-- native
 |   `-- pid
-|-- seahorse-1tpb4e [error opening dir]
-|-- seahorse-8Gqae1 [error opening dir]
-|-- seahorse-aME2Sl
+|-- pulse-PKdhtXMmr18n [error opening dir]
+|-- seahorse-tO76ve
 |   `-- S.gpg-agent
-|-- ssh-kRstc21354
-|   `-- agent.21354
-|-- virtual-administrator.M4CVSz [error opening dir]
-|-- virtual-meff.PzQauz [error opening dir]
-`-- virtual-rz65.8Nucus
+|-- ssh-IElmHx4273
+|   `-- agent.4273
+`-- virtual-rz65.Te6tyB
 
-29 directories, 54 files
+10 directories, 45 files
